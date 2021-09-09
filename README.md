@@ -1,2 +1,6 @@
-# webapp1
-webapp1
+﻿# maven-project
+
+Simple Maven Project
+Hello Sudheer Kumar
+
+Welcome to DevOps World
