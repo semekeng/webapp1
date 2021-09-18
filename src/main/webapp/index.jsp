@@ -7,5 +7,6 @@
 <h1> Implemented CI/CD Workflow </h1>
 <h1> Sucessfully Implemented </h1>
   <h2> to check this file is running in tomcat container from jenkins totomcat </h2>
+<h1> to check this file is running on jenkins declarative </h1>  
 </body>
 </html>
