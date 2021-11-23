@@ -9,5 +9,6 @@
   <h1> to check this file is running in tomcat container from jenkins totomcat </h1>
   <h1> to check this file is running on jenkins declarative </h1>
   <h1> checking this changes is picking from my first pipeline declarative job</h1> 
+  <h1> checking this changes is picking from my firstpipeline to declarative job job</h1> 
 </body>
 </html>
